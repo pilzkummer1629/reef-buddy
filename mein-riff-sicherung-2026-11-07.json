@@ -1,0 +1,179 @@
+{
+  "tank": {
+    "name": "Demo-Riff",
+    "length": 125,
+    "width": 70,
+    "height": 60,
+    "displacement": 12,
+    "age": "mature",
+    "cover": "yes"
+  },
+  "logs": [
+    {
+      "id": "9756517a-06fe-44f7-b5a1-67b1a4cccf37",
+      "date": "2026-11-03",
+      "note": "",
+      "kh": 8.5,
+      "ca": 450,
+      "mg": 1500,
+      "no3": 20,
+      "po4": 0.25,
+      "temp": 26
+    }
+  ],
+  "fish": [
+    {
+      "id": "f1",
+      "species": "ocellaris",
+      "qty": 2
+    },
+    {
+      "id": "a7d29378-6281-4f39-b72a-6a8b9ad29750",
+      "species": "tsa-copperband-butterflyfish",
+      "qty": 1
+    },
+    {
+      "id": "aa43bdc1-5348-4362-b0ef-6cad1bb60ce5",
+      "species": "tsa-green-chromis",
+      "qty": 6
+    },
+    {
+      "id": "01df5e72-6c18-44f2-8cc6-fbd87b8a0411",
+      "species": "firefish",
+      "qty": 1
+    },
+    {
+      "id": "375e1c78-75a3-4fd9-82ab-7d27e6e08e3d",
+      "species": "tsa-melanurus-wrasse",
+      "qty": 1
+    },
+    {
+      "id": "76fadf22-31e6-48e6-81ed-aed772122d59",
+      "species": "tsa-flame-dwarf-angelfish",
+      "qty": 1
+    },
+    {
+      "id": "ffb5c428-927b-468f-939b-f2cae4d80be4",
+      "species": "tsa-sunshine-chromis",
+      "qty": 1
+    }
+  ],
+  "cuc": [
+    {
+      "id": "c1",
+      "species": "trochus",
+      "qty": 4
+    },
+    {
+      "id": "c2",
+      "species": "nassarius",
+      "qty": 3
+    }
+  ],
+  "tasks": [],
+  "icp": [],
+  "demo": false,
+  "tech": [],
+  "techSettings": {
+    "corals": "mixed",
+    "sump": "yes",
+    "tariff": 0.35
+  },
+  "corals": [
+    {
+      "id": "4db7221f-5dce-48b7-9d89-3bf1111b4871",
+      "species": "birdsnest",
+      "qty": 1,
+      "date": "2026-11-06",
+      "note": ""
+    }
+  ],
+  "layoutPins": [],
+  "doses": [],
+  "costEntries": [],
+  "feedPlans": [],
+  "feedHistory": [],
+  "rodiHistory": [],
+  "waterTargets": {
+    "kh": [
+      7.5,
+      8.5
+    ],
+    "ca": [
+      400,
+      460
+    ],
+    "mg": [
+      1250,
+      1450
+    ],
+    "no3": [
+      2,
+      20
+    ],
+    "po4": [
+      0.02,
+      0.12
+    ],
+    "sal": [
+      34,
+      36
+    ],
+    "i": [
+      45,
+      90
+    ],
+    "temp": [
+      24,
+      27
+    ]
+  },
+  "dashboard": {
+    "mode": "bubbles",
+    "metrics": [
+      "mg",
+      "kh",
+      "po4",
+      "no3",
+      "temp",
+      "ca"
+    ],
+    "widgets": {
+      "water": true,
+      "tank": true,
+      "chart": true,
+      "overview": true,
+      "shortcuts": true
+    },
+    "coverId": null
+  },
+  "tankPhotos": [],
+  "navOrder": [
+    "dashboard",
+    "logbook",
+    "water",
+    "stock",
+    "fishstock",
+    "cuc",
+    "calcs",
+    "care",
+    "icp",
+    "settings",
+    "tech",
+    "corals",
+    "floorplan",
+    "dosing",
+    "costs",
+    "feeding",
+    "osmosis"
+  ],
+  "waterRelationPreset": "nutrients",
+  "waterRelationSampleId": "log-9756517a-06fe-44f7-b5a1-67b1a4cccf37",
+  "navHidden": [
+    "osmosis",
+    "feeding",
+    "dosing",
+    "floorplan",
+    "costs"
+  ]
+}
