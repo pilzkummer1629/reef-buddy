@@ -1,0 +1,80 @@
+{
+  "schema": 1,
+  "version": "2026-11-09.1",
+  "published": "2026-11-09",
+  "notice": "Redaktionell übernommene Händlerprofile, kein automatisch KI-generierter Haltungsrat. Pro Eintrag bisher eine Quelle; bei Besatzentscheidungen weitere unabhängige Quellen prüfen.",
+  "entries": [
+    {
+      "latin": "Acanthurus achilles",
+      "gallons": 180,
+      "maxCm": 21.6,
+      "reef": "Yes",
+      "temper": "Semi-Aggressive",
+      "care": "Difficult",
+      "diet": "Pflanzenfresser: marine Algen und Nori regelmäßig anbieten.",
+      "notes": "Laut Händlerprofil ausschließlich für sehr erfahrene Halter; sehr aktiver Schwimmer, hoher Sauerstoffbedarf und kräftige Strömung. Gegenüber anderen Doktorfischen oft territorial.",
+      "reviewed": "2026-11-09",
+      "evidence": "single_supplier",
+      "sources": [
+        {
+          "label": "LiveAquaria – Achilles Tang (Händlerprofil)",
+          "url": "https://www.liveaquaria.com/products/achilles-tang-expert-only"
+        }
+      ]
+    },
+    {
+      "latin": "Chaetodon auriga",
+      "gallons": 125,
+      "maxCm": 20.3,
+      "reef": "No",
+      "temper": "Peaceful",
+      "care": "Easy",
+      "diet": "Allesfresser: fleischhaltige Nahrung, Mysis und abwechslungsreiche Meerwasser-Futtermischungen.",
+      "notes": "Nicht riffsicher: kann Korallen und weitere Wirbellose beknabbern. Mehrere Verstecke und freie Schwimmstrecke vorsehen.",
+      "reviewed": "2026-11-09",
+      "evidence": "single_supplier",
+      "sources": [
+        {
+          "label": "LiveAquaria – Auriga Butterflyfish (Händlerprofil)",
+          "url": "https://www.liveaquaria.com/products/auriga-butterflyfish"
+        }
+      ]
+    },
+    {
+      "latin": "Chaetodon tinkeri",
+      "gallons": 120,
+      "maxCm": 14.0,
+      "reef": "No",
+      "temper": "Peaceful",
+      "care": "Moderate",
+      "diet": "Fleischbetont: Mysis, Artemia und geeignete Meerwasserfuttermischungen.",
+      "notes": "Laut Händlerprofil nicht für Korallenriff-Aquarien empfohlen; kann Korallenpolypen und Anemonen beknabbern.",
+      "reviewed": "2026-11-09",
+      "evidence": "single_supplier",
+      "sources": [
+        {
+          "label": "LiveAquaria – Tinkeri Butterflyfish (Händlerprofil)",
+          "url": "https://www.liveaquaria.com/products/tinkeri-butterflyfish"
+        }
+      ]
+    },
+    {
+      "latin": "Ostorhinchus cyanosoma",
+      "gallons": 10,
+      "maxCm": 6.4,
+      "reef": "Yes",
+      "temper": "Peaceful",
+      "care": "Easy",
+      "diet": "Fleischbetont: kleine Frostfuttersorten, Mysis und geeignetes feines Futter.",
+      "notes": "Ruhiger Kardinalbarsch. Verstecke zwischen Riffaufbauten anbieten. Das Händler-Mindestvolumen ist kein allgemeiner Besatzfreibrief.",
+      "reviewed": "2026-11-09",
+      "evidence": "single_supplier",
+      "sources": [
+        {
+          "label": "LiveAquaria – Yellowstriped Cardinalfish (Händlerprofil)",
+          "url": "https://www.liveaquaria.com/products/yellowstriped-cardinalfish"
+        }
+      ]
+    }
+  ]
+}
